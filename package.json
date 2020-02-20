@@ -1,0 +1,13 @@
+{
+  "name": "angle-brackets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sam Henderson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
