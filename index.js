@@ -67,7 +67,7 @@ const balanceAngles = angles => {
     return balanceAngles("<" + angles);
   }
 
-  // if top of stack is "<, prepend "<"
+  // if top of stack is "<, append ">"
   if (stack.peek === "<") {
     return balanceAngles(angles + ">");
   }
