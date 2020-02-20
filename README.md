@@ -11,3 +11,8 @@ For example:
 - ">" should return "<>"
 
 - "><<><" should return "<><<><>>"
+
+# How to run the tests
+
+1. Clone the repo
+2. `yarn install && yarn test`
